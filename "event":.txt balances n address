@@ -1,0 +1,6 @@
+
+    "event": "addresses:update",
+    "filters": {
+        "addresses": ["1Biteasym3p5E4soZq8So6NjkjYugEnz2X"]
+    }
+}
